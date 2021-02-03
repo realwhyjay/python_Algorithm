@@ -71,3 +71,28 @@ def profile3(name, age, main_lang):
 profile3(name="최버디", main_lang="파이썬", age=17)
 profile3(main_lang="Swift", age=20, name="최영재")
 
+
+# 가변인자
+def profile4(name, age, lang1, lang2, lang3, lang4, lang5):
+    # end = " "  이걸 적으면 프린트문이 끝나고 줄바꿈을 하지 않은채 이어서 다음 문장을 출력하게 된다.
+    print("이름 : {}\t나이 : {}\t".format(name, age), end=" ")
+    print(lang1, lang2, lang3, lang4, lang5)
+
+
+profile4("최영재", 20, "python", "java", "cpp", "swift", "js")
+profile4("최버디", 20, "kotlin", "java", "", "", "")
+
+# 만약 언어를 다섯개보다 적게 알거나, 다섯개 넘게 알고 있는 사람이 있다면???
+# 이때 사용할 수 있는게 가변인자이다.
+
+
+def profile5(name, age, *language):
+    print("이름 : {}\t나이 : {}\t".format(name, age), end=" ")
+    for lang in language:
+        print(lang, end=" ")
+    print()
+
+
+profile5("최영재", 20, "python", "java", "cpp", "swift", "js", "kotlin")
+profile5("최버디", 20, "kotlin", "java")
+# 다른 개수의 값이 있지만, 하나의 함수를 쓸 수 있다.
