@@ -77,3 +77,59 @@ if wraith2.clocking == True:
 # 이런식으로 파이썬에서는 어떤 객체에 추가로 변수를 외부에서 만들어서 쓸 수가 있다.
 # 그런데 차이점은 wraith2 에는 클로킹이 있는데, wraith1에는 없는 것이다.
 # 만약 위의 if문에서 wraith1의 클로킹 여부를 확인했다면 프로그램이 죽었을 것.
+
+
+# 메소드
+# attack 과 damaged라는 메서드를 만들어서 적용해보기.
+
+# 공격 유닛 생성
+class AttackUnit:
+    def __init__(self, name, hp, damage):
+        self.name = name
+        self.hp = hp
+        self.damage = damage
+
+    # self는 자기 자신을 의미하는 것이고, 클래스 내에서 반드시 self를 적어주어야한다.
+    # attack(self)->  이 부분
+    def attack(self, location):
+        print("{} : {} 방향으로 적군을 공격 합니다. [공격력 {}]".format(
+            self.name, location, self.damage))
+
+    def damaged(self, damage):
+        print("{} : {} 데미지를 입었습니다.".format(self.name, damage))
+        self.hp -= damage
+        print("{} : 현재 체력은 {} 입니다.".format(self.name, self.hp))
+        if self.hp <= 0:
+            print("{} : 파괴되었습니다.".format(self.name))
+
+
+# 파이어뱃 생성
+firebat1 = AttackUnit("파이어뱃", 50, 16)
+firebat1.attack("5시")
+
+# 공격 2번 받는다고 가정
+firebat1.damaged(25)
+firebat1.damaged(25)
+
+# 상속
+# damage가 없는 유닛을 생성해야한다 해보자.
+# 그런데  유닛들마다 겹치는 부분이 많은데 굳이 매번 다 입력을 해주어야하나?
+# 그래서 공통된 부분들만 상속시켜줄수가 있다.
+
+
+class NoDamageUnit:
+    def __init__(self, name, hp):
+        self.name = name
+        self.hp = hp
+
+# 힐러 유닛 생성
+# 상속할 클래스를 적어준다.
+
+
+class HealerUnit(NoDamageUnit):
+    def __init__(self, name, hp, heal):
+        NoDamageUnit.__init__(self, name, hp)
+        self.heal = heal
+
+
+medic1 = HealerUnit("ㅁㅔ딕", 40, 15)
