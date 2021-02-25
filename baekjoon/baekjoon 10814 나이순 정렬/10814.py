@@ -8,5 +8,4 @@ for _ in range(num):
 people = sorted(people, key=lambda x: x[0])
 
 for i in people:
-    #print("{} {}".format(i[0], i[1]))
     print(i[0], i[1])
