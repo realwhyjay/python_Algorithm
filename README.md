@@ -59,5 +59,5 @@
 |     4     | [백준 1668 : 트로피 진열](https://www.acmicpc.net/problem/1668) | [백준 1668 : 트로피 진열 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201668%20트로피%20진열/1668%20트로피%20진열.md) |          |
 |     5     | [백준 1236 : 성 지키기](https://www.acmicpc.net/problem/1236) | [백준 1236 : 성 지키기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201236%20성%20지키기/1236%20성%20지키기.md) |          |
 |     6     | [백준 2110 : 공유기 설치](https://www.acmicpc.net/problem/2110) |             [백준 2110 : 공유기 설치 solution]()             |          |
-|     7     | [백준 1939 : 중량제한](https://www.acmicpc.net/problem/1030) |              [백준 1939 : 중량제한 solution]()               |          |
+|     7     | [백준 1939 : 중량제한](https://www.acmicpc.net/problem/1939) |              [백준 1939 : 중량제한 solution]()               |          |
 
