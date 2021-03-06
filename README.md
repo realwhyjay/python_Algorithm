@@ -26,9 +26,9 @@
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
 |     1     | [백준 2750 : 수 정렬하기](https://www.acmicpc.net/problem/2750) | [백준 2750 : 수 정렬하기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202750%20수%20정렬하기/2750%20수%20정렬하기.md) |          |
 |     2     | [백준 1427 : 소트인사이드](https://www.acmicpc.net/problem/1427) | [백준 1427 : 소트인사이드 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201427%20소트인사이드/1427%20소트인사이드.md) |          |
-|     3     | [백준 10814 : 나이순 정렬](https://www.acmicpc.net/problem/10814) | [백준 10814 : 나이순 정렬 solution]( https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010814%20나이순%20정렬/10814%20나이순%20정렬.md) |          |
-|     4     | [백준 11650 : 좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [백준 11650 : 좌표 정렬하기 solution]( https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011650%20좌표%20정렬하기/11650%20좌표%20정렬하기.md) |          |
-|     5     | [백준 10989 : 수 정렬하기3](https://www.acmicpc.net/problem/10989) | [백준 10989 : 수 정렬하기3 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010989%20수%20정렬하기%203/10989%20수%20정렬하기3.md) |          |
+|     3     | [백준 10814 : 나이순 정렬](https://www.acmicpc.net/problem/10814) | [백준 10814 : 나이순 정렬 solution]( https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010814%20나이순%20정렬/10814%20나이순%20정렬.md) |  :star:  |
+|     4     | [백준 11650 : 좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [백준 11650 : 좌표 정렬하기 solution]( https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011650%20좌표%20정렬하기/11650%20좌표%20정렬하기.md) |  :star:  |
+|     5     | [백준 10989 : 수 정렬하기3](https://www.acmicpc.net/problem/10989) | [백준 10989 : 수 정렬하기3 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010989%20수%20정렬하기%203/10989%20수%20정렬하기3.md) |  :star:  |
 |     1     | [백준 11004 : K번째 수](https://www.acmicpc.net/problem/11004) | [백준 11004 : K번째 수 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011004%20K번째%20수/11004%20K번째%20수.md) |          |
 
 
@@ -41,7 +41,7 @@
 
 | 기본/고급 |                            Title                             |                           solution                           | 다시풀기 |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
-|     1     | [백준 2747 : 피보나치 수열](https://www.acmicpc.net/problem/2747) | [백준 2747 : 피보나치 수열 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202747%20피보나치%20수/2747%20피보나치%20수열.md) |          |
+|     1     | [백준 2747 : 피보나치 수열](https://www.acmicpc.net/problem/2747) | [백준 2747 : 피보나치 수열 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202747%20피보나치%20수/2747%20피보나치%20수열.md) |  :star:  |
 |     2     |    [백준 1074 : Z](https://www.acmicpc.net/problem/1074)     |                              --                              |          |
 |     3     | [백준 7490 : 0 만들기](https://www.acmicpc.net/problem/7490) |                              --                              |          |
 
