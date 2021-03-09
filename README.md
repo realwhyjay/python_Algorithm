@@ -70,7 +70,7 @@
 
 | 기본/고급 |                            Title                             |               solution                | 다시풀기 |
 | :-------: | :----------------------------------------------------------: | :-----------------------------------: | :------: |
-|     1     | [백준 1654 : 랜선 자르기](https://www.acmicpc.net/problem/1654) | [백준 1790 : 수 이어쓰기2 solution]() |          |
+|     1     | [백준 1654 : 랜선 자르기](https://www.acmicpc.net/problem/1654) | [백준 1790 : 수 이어쓰기2 solution]() |  :star:  |
 |     2     | [백준 2805 : 나무 자르기](https://www.acmicpc.net/problem/2805) | [백준 1790 : 수 이어쓰기2 solution]() |          |
 |     3     | [백준 1939 : 중량제한](https://www.acmicpc.net/problem/1939) | [백준 1790 : 수 이어쓰기2 solution]() |          |
 |     4     |  [백준 2022 : 사다리](https://www.acmicpc.net/problem/2022)  | [백준 1790 : 수 이어쓰기2 solution]() |          |
