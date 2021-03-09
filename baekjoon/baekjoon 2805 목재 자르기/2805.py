@@ -25,4 +25,4 @@ while start <= end:
         end = mid-1
         print("result 작다 : {}".format(result))
 
-print(start)
+print(end)
