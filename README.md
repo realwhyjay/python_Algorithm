@@ -68,10 +68,11 @@
 이분탐색을 연습하기 위해 이분 탐색 문제만 찾아왔다.
 [여기](https://www.acmicpc.net/workbook/view/3984)에서 문제 목록을 확인할 수 있다.
 
-| 기본/고급 |                            Title                             |               solution                | 다시풀기 |
-| :-------: | :----------------------------------------------------------: | :-----------------------------------: | :------: |
-|     1     | [백준 1654 : 랜선 자르기](https://www.acmicpc.net/problem/1654) | [백준 1790 : 수 이어쓰기2 solution]() |  :star:  |
-|     2     | [백준 2805 : 나무 자르기](https://www.acmicpc.net/problem/2805) | [백준 1790 : 수 이어쓰기2 solution]() |          |
-|     3     | [백준 1939 : 중량제한](https://www.acmicpc.net/problem/1939) | [백준 1790 : 수 이어쓰기2 solution]() |          |
-|     4     |  [백준 2022 : 사다리](https://www.acmicpc.net/problem/2022)  | [백준 1790 : 수 이어쓰기2 solution]() |          |
-|     5     | [백준 11664 : 선분과 점](https://www.acmicpc.net/problem/11664) | [백준 1790 : 수 이어쓰기2 solution]() |          |
+| 기본/고급 |                            Title                             |                           solution                           | 다시풀기 |
+| :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
+|     1     | [백준 1654 : 랜선 자르기](https://www.acmicpc.net/problem/1654) | [백준 1654 : 랜선 자르기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201654%20랜선%20자르기/1654%20랜선%20자르기.md) |  :star:  |
+|     2     | [백준 2805 : 목재 자르기](https://www.acmicpc.net/problem/2805) | [백준 2805 : 목재 자르기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202805%20목재%20자르기/2805%20목재%20자르기.md) |          |
+|     3     | [백준 1939 : 중량제한](https://www.acmicpc.net/problem/1939) |                                                              |          |
+|     4     |  [백준 2022 : 사다리](https://www.acmicpc.net/problem/2022)  |                                                              |          |
+|     5     | [백준 11664 : 선분과 점](https://www.acmicpc.net/problem/11664) |                                                              |          |
+|     6     |   [백준 2512 : 예산](https://www.acmicpc.net/problem/2512)   |                [백준 2512 : 예산 solution]()                 |          |
