@@ -1,7 +1,7 @@
 N, M = map(int, input().split())
 lesson = list(map(int, input().split()))
 
-start = max(lesson)
+start = 1
 end = sum(lesson)
 
 while start <= end:
@@ -10,13 +10,10 @@ while start <= end:
     count = 1
 
     for i in lesson:
-        if time+1 >= mid:
-            time = 0
-            count += 1
         time += i
-
-    if time:
-        count += 1
+        if time > mid:
+            count += 1
+            time = i
 
     if count > M:
         start = mid+1
