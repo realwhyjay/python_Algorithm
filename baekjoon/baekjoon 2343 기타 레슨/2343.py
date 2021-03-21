@@ -1,23 +1,23 @@
+def count(li, m):
+    t = cnt = 0
+    for n in li:
+        if t+n > m:
+            cnt += 1
+            t = n
+        else:
+            t += n
+    return cnt+1
+
+
 N, M = map(int, input().split())
-lesson = list(map(int, input().split()))
-
-start = 1
-end = sum(lesson)
-
-while start <= end:
-    mid = (start + end)//2
-    time = 0
-    count = 1
-
-    for i in lesson:
-        time += i
-        if time > mid:
-            count += 1
-            time = i
-
-    if count > M:
-        start = mid+1
+li = list(map(int, input().split()))
+s, e = max(li), sum(li)
+res = 0
+while s <= e:
+    m = (s+e)//2
+    if count(li, m) <= M:
+        res = m
+        e = m-1
     else:
-        end = mid-1
-
-print(start)
+        s = m+1
+print(res)
