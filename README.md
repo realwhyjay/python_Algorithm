@@ -7,7 +7,7 @@
 
 리스트, 큐, 스택, 해시, 집합을 활용한다.
 
-| 기본/고급 |                            Title                             |                           solution                           | 다시풀기 |
+| 기본/핵심 |                            Title                             |                           solution                           | 다시풀기 |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
 |     1     |   [백준 2920 : 음계](https://www.acmicpc.net/problem/2920)   | [백준 2920 음계 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202920%20음계/2920%20음계.md) |          |
 |     2     |  [백준 2798 : 블랙잭](https://www.acmicpc.net/problem/2798)  | [백준 2798 : 블랙잭 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202798%20블랙잭/2798%20블랙잭.md) |          |
@@ -24,7 +24,7 @@
 
 정렬 라이브러리, 키(Key) 기반 정렬, 계수 정렬 (기본)과 병합 정렬(고급)을 활용한다.
 
-| 기본/고급 |                            Title                             |                           solution                           | 다시풀기 |
+| 기본/핵심 |                            Title                             |                           solution                           | 다시풀기 |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
 |     1     | [백준 2750 : 수 정렬하기](https://www.acmicpc.net/problem/2750) | [백준 2750 : 수 정렬하기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202750%20수%20정렬하기/2750%20수%20정렬하기.md) |          |
 |     2     | [백준 1427 : 소트인사이드](https://www.acmicpc.net/problem/1427) | [백준 1427 : 소트인사이드 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201427%20소트인사이드/1427%20소트인사이드.md) |          |
@@ -41,7 +41,7 @@
 아직 빡대가리라 재귀 함수는 어렵다~   
 나머지 두문제는 나중에 풀어볼예정
 
-| 기본/고급 |                            Title                             |                           solution                           | 다시풀기 |
+| 기본/핵심 |                            Title                             |                           solution                           | 다시풀기 |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
 |     1     | [백준 2747 : 피보나치 수열](https://www.acmicpc.net/problem/2747) | [백준 2747 : 피보나치 수열 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202747%20피보나치%20수/2747%20피보나치%20수열.md) |  :star:  |
 |     2     |    [백준 1074 : Z](https://www.acmicpc.net/problem/1074)     |                              --                              |          |
@@ -53,7 +53,7 @@
 
 순차 탐색, 이진 탐색을 활용한다
 
-| 기본/고급 |                            Title                             |                           solution                           |                           다시풀기                           |
+| 기본/핵심 |                            Title                             |                           solution                           |                           다시풀기                           |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |     1     | [백준 1543 : 문서 검색](https://www.acmicpc.net/problem/1543) | [백준 1543 : 문서 검색 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201543%20문서%20검색/1543%20문서%20검색.md) |                            :star:                            |
 |     2     |    [백준 1568 : 새](https://www.acmicpc.net/problem/1568)    | [백준 1568 : 새 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201568%20새/1568%20새.md) |                            :star:                            |
@@ -70,7 +70,7 @@
 이분탐색을 연습하기 위해 이분 탐색 문제만 찾아왔다.  
 [여기](https://www.acmicpc.net/workbook/view/3984)에서 문제 목록을 확인할 수 있다. + 추가 몇문제를 더 찾아왔다.
 
-| 기본/고급 |                            Title                             |                           solution                           | 다시풀기 |
+| 기본/핵심 |                            Title                             |                           solution                           | 다시풀기 |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
 |     1     | [백준 1654 : 랜선 자르기](https://www.acmicpc.net/problem/1654) | [백준 1654 : 랜선 자르기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201654%20랜선%20자르기/1654%20랜선%20자르기.md) |  :star:  |
 |     2     | [백준 2805 : 목재 자르기](https://www.acmicpc.net/problem/2805) | [백준 2805 : 목재 자르기 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202805%20목재%20자르기/2805%20목재%20자르기.md) |  :star:  |
@@ -83,3 +83,18 @@
 |     9     | [백준 1300 : k번째 수](https://www.acmicpc.net/problem/1300) |                                                              |          |
 |    10     |   [백준 1072 : 게임](https://www.acmicpc.net/problem/1072)   |                                                              |          |
 
+
+
+## 고급 탐색 알고리즘 :fire:
+
+트리 순회, 힙 (우선 순위 큐), 위상 정렬을 활용한다.
+
+| 기본/핵심 |                            Title                             |                           solution                           | 다시풀기 |
+| :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
+|     1     | [백준 1991 : 트리 순회](https://www.acmicpc.net/problem/1991) | [백준 1991 : 트리 순회 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201991%20트리%20순회/1991%20트리%20순회.md) |  :star:  |
+|     2     | [백준 2250 : 트리의 높이와 너비](https://www.acmicpc.net/problem/2250) |         [백준 2250 : 트리의 높이와 너비 solution]()          |          |
+|     1     |                                                              |                                                              |          |
+|     2     |                                                              |                                                              |          |
+|     3     |                                                              |                                                              |          |
+
+### 
