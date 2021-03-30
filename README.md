@@ -93,7 +93,7 @@
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
 |     1     | [백준 1991 : 트리 순회](https://www.acmicpc.net/problem/1991) | [백준 1991 : 트리 순회 solution](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201991%20트리%20순회/1991%20트리%20순회.md) |  :star:  |
 |     2     | [백준 2250 : 트리의 높이와 너비](https://www.acmicpc.net/problem/2250) |         [백준 2250 : 트리의 높이와 너비 solution]()          |          |
-|     1     |                                                              |                                                              |          |
+|     1     | [백준 1927 : 최소 힙](https://www.acmicpc.net/problem/1927)  |                                                              |          |
 |     2     |                                                              |                                                              |          |
 |     3     |                                                              |                                                              |          |
 
