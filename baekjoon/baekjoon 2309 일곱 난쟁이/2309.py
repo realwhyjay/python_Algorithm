@@ -6,7 +6,7 @@ for _ in range(9):
 
 
 sum = sum(dwarf)
-# while(len(dwarf) == 9):
+
 for i in range(9):
     for q in range(i+1, 9):
         if (sum-(dwarf[i]+dwarf[q]) == 100):
