@@ -12,12 +12,14 @@ def next_permutations(a):
         # 만일 end가 0이라면 완벽한 내림차순이기 때문에 False를 리턴 해준다.
         return False
 
-    # a[i-1] 뒤의 값중 제일 a[i-1]보다 큰 값중 제일 작은 값을 확인하고 자리를 바꿔준다.
+    # a[i-1] 뒤의 값중 제일 a[i-1]보다 큰 값중 제일 작은 값을 확인하고
+    # 자리를 바꿔준다.
     j = len(a)-1
     while a[i-1] >= a[j]:
         j -= 1
     a[i-1], a[j] = a[j], a[i-1]
 
+    # a[i-1]뒤의 값은 내림차순으로 정렬되어 있기 떄문에 뒤집어준다.
     j = len(a)-1
     while i < j:
         a[i], a[j] = a[j], a[i]
