@@ -5,7 +5,6 @@ character = list(input().split())
 pw = list(map(''.join, combinations(sorted(character), l)))
 vowel = ['a', 'e', 'i', 'o', 'u']
 result = []
-mo, ja = 0, 0
 pw.sort()
 
 for i in pw:
