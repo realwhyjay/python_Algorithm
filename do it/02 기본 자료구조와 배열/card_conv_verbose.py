@@ -5,8 +5,16 @@ def card_conv(x: int, r: int) -> str:
 
     d = ''  # 변환 뒤 문자열
     dchar = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+    n = len(str(x))  # 변환하기 전의 자릿수
 
+    print(f'{r:2} | {x:{n}d}')
     while x > 0:
+        print('   +' + (n + 2) * '-')
+        if x//r:
+            print(f'{r:2} | {x // r:{n}d} ... {x%r}')
+        else:
+            print(f'     {x // r:{n}d} ... {x%r}')
+
         d += dchar[x % r]  # 해당하는 문자를 꺼내 결합
         x //= r
 
