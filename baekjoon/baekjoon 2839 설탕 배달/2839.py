@@ -8,4 +8,3 @@ for i in range((kg//5)+1):
             bag = i+j if (i+j) < bag else bag
 
 print(bag if bag != (kg//3)+1 else -1)
-8
