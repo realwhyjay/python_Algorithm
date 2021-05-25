@@ -1,6 +1,3 @@
-cnt0 = [1, 0]
-cnt1 = [0, 1]
-
 for _ in range(int(input())):
     cnt0 = [1, 0]
     cnt1 = [0, 1]
