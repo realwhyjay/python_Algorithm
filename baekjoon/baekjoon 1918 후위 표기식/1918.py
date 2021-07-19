@@ -10,7 +10,7 @@
 
 stack = list(input())
 result = []
-box_cnt = 1
+box_cnt = 0
 opr_cnt = 0
 str_cnt = 0
 
@@ -22,13 +22,27 @@ print(stack)
 
 for i in range(len(stack)):
     if stack[i] in operater:
-        result.insert(-opr_cnt, stack[i])
-        opr_cnt += 1
-    elif stack[i] in box:
-        continue
+        if box_cnt == 0:
+            result.append(stack[i])
+            opr_cnt += 1
+        else:
+            result.insert(-opr_cnt, stack[i])
+            print("operater : ", -opr_cnt, result)
+    elif stack[i] == '(':
+        box_cnt += 1
+    elif stack[i] == ')':
+        box_cnt -= 1
     else:
-        result.insert(str_cnt, stack[i])
-        str_cnt += 1
+        if box_cnt == 0:
+            str_cnt = len(result)-1
+        else:
+            result.insert(str_cnt, stack[i])
+            print("string : ", str_cnt, result)
+            str_cnt += 1
 
 
-print(result)
+print(result, sep='')
+# A+(B*C)
+# (A+(B*C))
+# (A+B)*(C-D)
+# (A+(B*C))-(D/E)
