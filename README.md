@@ -122,3 +122,43 @@
 |     5     |                                                              |                                                              |          |
 |           |                                                              |                                                              |          |
 
+
+
+# 알고리즘 기초 (1/2)🔥
+
+## 자료구조 1
+
+|      |                            Title                             | solution | 다시풀기 |
+| :--: | :----------------------------------------------------------: | :------: | :------: |
+|  1   |  [백준 10828 : 스택](https://www.acmicpc.net/problem/10828)  |          |          |
+|  2   | [백준 9093 : 단어 뒤집기](https://www.acmicpc.net/problem/9093) |          |          |
+|  3   |   [백준 9012 : 괄호](https://www.acmicpc.net/problem/9012)   |          |          |
+|  4   | [백준 1874 : 스택 수열](https://www.acmicpc.net/problem/1874) |          |          |
+|  5   |  [백준 1405 : 에디터](https://www.acmicpc.net/problem/1406)  |          |          |
+|  6   |   [백준 10845 : 큐](https://www.acmicpc.net/problem/10845)   |          |          |
+|  7   | [백준 1158 : 조세퍼스 문제](https://www.acmicpc.net/problem/1158) |          |          |
+|  8   |   [백준 10866 : 덱](https://www.acmicpc.net/problem/10866)   |          |          |
+
+## 자료구조 (연습)
+
+|      |                            Title                             | solution | 다시풀기 |
+| :--: | :----------------------------------------------------------: | :------: | :------: |
+|  1   | [백준 17413 : 단어 뒤집기 2](https://www.acmicpc.net/problem/17413) |          |          |
+|  2   | [백준 10799 : 쇠막대기](https://www.acmicpc.net/problem/10799) |          |          |
+|  3   | [백준 17298 : 오큰수](https://www.acmicpc.net/problem/17298) |          |          |
+|  4   | [백준 17299 : 오등큰수](https://www.acmicpc.net/problem/17299) |          |          |
+
+## 자료구조 (참고)
+
+|      |                         Title                          | solution | 다시풀기 |
+| :--: | :----------------------------------------------------: | :------: | :------: |
+|  1   |  [후위 표기식2](https://www.acmicpc.net/problem/1935)  |          |          |
+|  2   |  [후위 표기식](https://www.acmicpc.net/problem/1918)   |          |          |
+|  3   |  [알파벳 개수](https://www.acmicpc.net/problem/10808)  |          |          |
+|  4   |  [알파벳 찾기](https://www.acmicpc.net/problem/10809)  |          |          |
+|  5   |  [문자열 분석](https://www.acmicpc.net/problem/10820)  |          |          |
+|  6   | [단어 길이 재기](https://www.acmicpc.net/problem/2743) |          |          |
+|  7   |     [ROT13](https://www.acmicpc.net/problem/11655)     |          |          |
+|  8   |     [네 수](https://www.acmicpc.net/problem/10824)     |          |          |
+|  9   |  [접미사 배열](https://www.acmicpc.net/problem/11656)  |          |          |
+
