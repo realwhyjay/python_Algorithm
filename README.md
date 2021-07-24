@@ -152,7 +152,7 @@
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
 |  1   | [백준 1935 : 후위 표기식2](https://www.acmicpc.net/problem/1935) | [백준 1935 : 후위 표기식2](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201935%20후위%20표기식2/1935%20후위%20표기식2.md) |          |
 |  2   | [백준 1918 : 후위 표기식](https://www.acmicpc.net/problem/1918) | [백준 1918 : 후위 표기식](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201918%20후위%20표기식/1918%20후위%20표기식.md) |          |
-|  3   |     [알파벳 개수](https://www.acmicpc.net/problem/10808)     |                                                              |          |
+|  3   | [백준 10809 : 알파벳 개수](https://www.acmicpc.net/problem/10808) | [백준 10809 : 알파벳 개수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010808%20알파벳%20개수/10808%20알파벳%20개수.md) |          |
 |  4   | [백준 10809 : 알파벳 찾기](https://www.acmicpc.net/problem/10809) | [백준 10809 : 알파벳 찾기](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010809%20알파벳%20찾기/10809%20알파벳%20찾기.md) |          |
 |  5   |     [문자열 분석](https://www.acmicpc.net/problem/10820)     |                                                              |          |
 |  6   |    [단어 길이 재기](https://www.acmicpc.net/problem/2743)    |                                                              |          |
