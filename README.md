@@ -132,7 +132,7 @@
 |  2   | [백준 9093 : 단어 뒤집기](https://www.acmicpc.net/problem/9093) | [백준 9093 : 단어 뒤집기](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%209093%20단어%20뒤집기/9093%20단어%20뒤집기.md) |          |
 |  3   |   [백준 9012 : 괄호](https://www.acmicpc.net/problem/9012)   | [백준 9012 : 괄호](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%209012%20괄호/9012%20괄호.md) |          |
 |  4   | [백준 1874 : 스택 수열](https://www.acmicpc.net/problem/1874) | [백준 1874 : 스택 수열](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201874%20스택%20수열/1874%20스택%20수열.md) |          |
-|  5   |  [백준 1405 : 에디터](https://www.acmicpc.net/problem/1406)  |                                                              |          |
+|  5   |  [백준 1405 : 에디터](https://www.acmicpc.net/problem/1406)  | [백준 1405 : 에디터](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201405%20에디터/1405%20에디터.md) |          |
 |  6   |   [백준 10845 : 큐](https://www.acmicpc.net/problem/10845)   | [백준 10845 : 큐](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010845%20큐/10845%20큐.md) |          |
 |  7   | [백준 1158 : 조세퍼스 문제](https://www.acmicpc.net/problem/1158) | [백준 1158 : 조세퍼스 문제](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%201158%20요세푸스%20문제/1158%20요세푸스%20문제.md) |          |
 |  8   |   [백준 10866 : 덱](https://www.acmicpc.net/problem/10866)   | [백준 10866 : 덱](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010866%20덱/10866%20덱.md) |          |
