@@ -141,7 +141,7 @@
 
 |      |                            Title                             |                           solution                           | 다시풀기 |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
-|  1   | [백준 17413 : 단어 뒤집기 2](https://www.acmicpc.net/problem/17413) |                                                              |          |
+|  1   | [백준 17413 : 단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | [백준 17413 : 단어 뒤집기 2](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2017413%20단어%20뒤집기%202/17413%20단어%20뒤집기%202.md) |          |
 |  2   | [백준 10799 : 쇠막대기](https://www.acmicpc.net/problem/10799) |                                                              |          |
 |  3   | [백준 17298 : 오큰수](https://www.acmicpc.net/problem/17298) | [백준 17298 : 오큰수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2017298%20오큰수/17298%20오큰수.md) |          |
 |  4   | [백준 17299 : 오등큰수](https://www.acmicpc.net/problem/17299) | [백준 17299 : 오등큰수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2017299%20오등큰수/17299%20오등큰수.md) |          |
