@@ -158,7 +158,7 @@
 |  6   | [백준 2743 : 단어 길이 재기](https://www.acmicpc.net/problem/2743) |                              -                               |          |
 |  7   | [백준 11655 : ROT13](https://www.acmicpc.net/problem/11655)  | [백준 11655 : ROT13](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011655%20ROT13/11655%20ROT13.md) |          |
 |  8   | [백준 10824 : 네 수](https://www.acmicpc.net/problem/10824)  |                                                              |          |
-|  9   |     [접미사 배열](https://www.acmicpc.net/problem/11656)     |                                                              |          |
+|  9   | [백준 11656 : 접미사 배열](https://www.acmicpc.net/problem/11656) | [백준 11656 : 접미사 배열](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011656%20접미사%20배열/11656%20접미사%20배열.md) |          |
 
 #
 
