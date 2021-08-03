@@ -160,5 +160,19 @@
 |  8   | [백준 10824 : 네 수](https://www.acmicpc.net/problem/10824)  | (https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2010824%20네%20수/10824%20네%20수.md) |          |
 |  9   | [백준 11656 : 접미사 배열](https://www.acmicpc.net/problem/11656) | [백준 11656 : 접미사 배열](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%2011656%20접미사%20배열/11656%20접미사%20배열.md) |          |
 
-#
+## 수학 1 
+
+|      |                            Title                             | solution | 다시풀기 |
+| :--: | :----------------------------------------------------------: | :------: | :------: |
+|  1   |       [나머지](https://www.acmicpc.net/problem/10430)        |          |          |
+|  2   | [백준 2609 : 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |          |          |
+|  3   | [백준 1934 : 최소공배수](https://www.acmicpc.net/problem/1934) |          |          |
+|  4   |      [소수 찾기](https://www.acmicpc.net/problem/1978)       |          |          |
+|  5   |     [소수 구하기](https://www.acmicpc.net/problem/1929)      |          |          |
+|  6   |   [골드바흐의 추측](https://www.acmicpc.net/problem/6588)    |          |          |
+|  7   |      [팩토리얼](https://www.acmicpc.net/problem/10872)       |          |          |
+|  8   |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)   |          |          |
+|  9   |    [조합 0의 개수](https://www.acmicpc.net/problem/2004)     |          |          |
+
+## 자료구조 (참고)
 
