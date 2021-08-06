@@ -172,7 +172,7 @@
 |  6   |   [골드바흐의 추측](https://www.acmicpc.net/problem/6588)    |          |          |
 |  7   |      [팩토리얼](https://www.acmicpc.net/problem/10872)       |          |          |
 |  8   |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)   |          |          |
-|  9   |    [조합 0의 개수](https://www.acmicpc.net/problem/2004)     |          |          |
+|  9   | [백준 2004 : 조합 0의 개수](https://www.acmicpc.net/problem/2004) |          |          |
 
 ## 자료구조 (참고)
 
