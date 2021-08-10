@@ -174,5 +174,5 @@
 |  8   |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)   |                                                              |          |
 |  9   | [백준 2004 : 조합 0의 개수](https://www.acmicpc.net/problem/2004) | [백준 2004 : 조합 0의 개수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202004%20%20조합%200의%20개수/2004%20조합%200의%20개수.md) |          |
 
-## 자료구조 (참고)
+## 수학
 
