@@ -174,4 +174,16 @@
 |  8   |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)   |                                                              |          |
 |  9   | [백준 2004 : 조합 0의 개수](https://www.acmicpc.net/problem/2004) | [백준 2004 : 조합 0의 개수](https://github.com/realwhyjay/Python_Algorithm/blob/main/baekjoon/baekjoon%202004%20%20조합%200의%20개수/2004%20조합%200의%20개수.md) |          |
 
-## 수학   
+## 수학 1 (연습)
+
+|      |                            Title                             | solution | 다시풀기 |
+| :--: | :----------------------------------------------------------: | :------: | :------: |
+|  1   |        [GCD 합](https://www.acmicpc.net/problem/9613)        |          |          |
+|  2   |     [숨바꼭질 6](https://www.acmicpc.net/problem/17087)      |          |          |
+|  3   | [백ㅈ ㄴ 1373 : 2진수 8진수](https://www.acmicpc.net/problem/1373) |          |          |
+|  4   |     [8진수 2진수](https://www.acmicpc.net/problem/1212)      |          |          |
+|  5   |        [-2진수](https://www.acmicpc.net/problem/2089)        |          |          |
+|  6   |   [골드바흐 파티션](https://www.acmicpc.net/problem/17103)   |          |          |
+
+## 
+
