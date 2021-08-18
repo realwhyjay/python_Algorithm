@@ -178,7 +178,7 @@
 
 |      |                            Title                             | solution | 다시풀기 |
 | :--: | :----------------------------------------------------------: | :------: | :------: |
-|  1   |        [GCD 합](https://www.acmicpc.net/problem/9613)        |          |          |
+|  1   |  [백준 9613 : GCD 합](https://www.acmicpc.net/problem/9613)  |          |          |
 |  2   |     [숨바꼭질 6](https://www.acmicpc.net/problem/17087)      |          |          |
 |  3   | [백준 1373 : 2진수 8진수](https://www.acmicpc.net/problem/1373) |          |          |
 |  4   |     [8진수 2진수](https://www.acmicpc.net/problem/1212)      |          |          |
