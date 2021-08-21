@@ -181,7 +181,7 @@
 |  1   |  [백준 9613 : GCD 합](https://www.acmicpc.net/problem/9613)  |          |          |
 |  2   | [백준 17087 : 숨바꼭질 6](https://www.acmicpc.net/problem/17087) |          |          |
 |  3   | [백준 1373 : 2진수 8진수](https://www.acmicpc.net/problem/1373) |          |          |
-|  4   |     [8진수 2진수](https://www.acmicpc.net/problem/1212)      |          |          |
+|  4   | [백준 1212 : 8진수 2진수](https://www.acmicpc.net/problem/1212) |          |          |
 |  5   |        [-2진수](https://www.acmicpc.net/problem/2089)        |          |          |
 |  6   |   [골드바흐 파티션](https://www.acmicpc.net/problem/17103)   |          |          |
 
